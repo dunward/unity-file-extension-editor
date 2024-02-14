@@ -12,4 +12,5 @@ List<LocalizationData> tests = new List<LocalizationData>()
     new LocalizationData("jp", "日本語")
 };
 ```
-![localization](localization.png)
+### Editor
+<img src="localization.png" width=400/>
